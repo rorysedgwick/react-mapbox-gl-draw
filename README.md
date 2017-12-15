@@ -1,3 +1,6 @@
+# This a temporary package published to address a build issue with [the repo this was forked from] (https://github.com/amaurymartiny/react-mapbox-gl-draw). All credit to Amaury Martiny.
+
+
 # react-mapbox-gl-draw
 Draw tools for Mapbox with React: react-mapbox-gl + mapbox-gl-draw.
 
